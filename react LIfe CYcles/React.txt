@@ -1,0 +1,30 @@
+
+compnentwillmount
+componentdidmount
+componentwillreciveprops
+shouldcomponentupdate()
+componentwillunmont
+
+authenticaltion strategy
+
+oath2
+token based auth
+error handling
+
+
+calback 
+callback hell
+
+asynchronous 
+
+observables promise
+
+
+
+
+remainer
+space 5px in auditor new cards
+
+add status in questions
+
+answer submitted successfully while change answer

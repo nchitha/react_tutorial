@@ -1,0 +1,6 @@
+
+compnentwillmount
+componentdidmount
+componentwillreciveprops
+shouldcomponentupdate()
+componentwillunmont

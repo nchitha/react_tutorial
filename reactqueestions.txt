@@ -1,0 +1,10 @@
+React Lifecycle.
+React Props and State and difference between them.
+Redux concepts and Redux Flow.
+What is state management ?
+Why you should use Redux ?
+What is React hooks, for what purpose it is introduced ?
+How to implement same React lifecycle using React hooks ?
+How to enhance React app performance ?
+What are pure components ?
+What is Redux middleware ?
